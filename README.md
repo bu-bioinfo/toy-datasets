@@ -19,7 +19,8 @@ library(toydata)
 A toy expression set object for TCGA-BRCA  
 - RNA-Seq data processed with STAR2/HTSeq and downloaded via the GDC  
 - DESeq2-log2-normalized  
-- Contains molecular subtypings Top 1000 variable genes by median absolute deviation  
+- Contains molecular subtypings 
+- Top 1000 variable genes by median absolute deviation  
 - Top 50 representative samples from each subtype 
 
 ```R
